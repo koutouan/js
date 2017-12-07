@@ -6,7 +6,7 @@
  *
  * @next words
  */
-
+const sentence  
 
 //* Begin of tests
 const assert = require('assert')

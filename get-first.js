@@ -10,6 +10,7 @@
 
 // Your code :
 
+const getFirst = ray => ray[0]
 //* Begin of tests
 const assert = require('assert')
 

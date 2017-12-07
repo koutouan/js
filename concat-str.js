@@ -8,7 +8,9 @@
  */
 
 // Your code :
-
+const sco1 = 'ray1'
+const sco2 = 'ray2'
+const concatStr = (sco1, sco2) => sco1 + sco2
 //* Begin of tests
 const assert = require('assert')
 

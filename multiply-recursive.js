@@ -11,7 +11,9 @@
  */
 
 // Your code :
-
+const a 
+const b
+const multiply = ( a, b ) =>  
 //* Begin of tests
 const assert = require('assert')
 

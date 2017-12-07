@@ -9,7 +9,7 @@
  */
 
 // Your code :
-
+const getLast = ray => ray [ ray.length - 1 ]
 //* Begin of tests
 const assert = require('assert')
 

@@ -11,8 +11,11 @@
 
 // Your code :
 
+
+
 //* Begin of tests
 const assert = require('assert')
+const rand = Math.random()
 
 assert.strictEqual(typeof multiply, 'function')
 assert.strictEqual(multiply.length, 2)

@@ -11,7 +11,17 @@
  */
 
 // Your code :
-
+const a = 1
+const b = 2
+const max = ( a, b ) => {
+if(a>b) {
+    return a
+}
+else
+{
+    return b
+}
+}
 //* Begin of tests
 const assert = require('assert')
 
