@@ -6,13 +6,13 @@
  * Like the method https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat
  * Of course you may not use the method directly
  *
- * @next multiply
+ * @next sentence
  */
 const a = 'raysco1'
 const b = raysco2
 const i
 const repeat = (a, b) => {
-    for (i = 0; i >= b; )
+    
 }
 
 //* Begin of tests

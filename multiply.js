@@ -7,9 +7,11 @@
  *
  * @notions Primitive and Operators, Functions, While
  * @next multiply-recursive
+ * @next
  */
 
 // Your code :
+const multiply = ( a, b ) => 
 
 
 
@@ -29,4 +31,5 @@ assert.strictEqual(multiply(0, 0), 0)
 assert.strictEqual(multiply(123, -22), -2706)
 assert.strictEqual(multiply(-22, 123), -2706)
 assert.strictEqual(multiply(-22, -123), 2706)
+assert.strictEqual(multiply(rand, rand), rand * rand)
 // End of tests */

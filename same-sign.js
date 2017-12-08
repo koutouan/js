@@ -13,6 +13,7 @@
 const sameSign = (a, b) => {   
 if (Math.sign(a) == Math.sign(b)) 
 {     return true   }    return false }
+
 //* Begin of tests
 const assert = require('assert')
 
