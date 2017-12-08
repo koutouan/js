@@ -14,13 +14,12 @@
 const a = 1
 const b = 2
 const min = ( a, b ) => {
-if(a < b) {
+  if(a < b) {
     return a
-}
-else
-{
+  }
+  else {
     return b
-}
+  }
 }
 //* Begin of tests
 const assert = require('assert')
