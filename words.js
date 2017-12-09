@@ -6,11 +6,7 @@
  *
  * @next total
  */
-const a = 'a'
-const b = 'b'
-const c = 'c'
 
-const words = ( a, b, c ) => [ 'a', 'b', 'c']
 
 //* Begin of tests
 const assert = require('assert')
